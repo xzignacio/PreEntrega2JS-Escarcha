@@ -1,29 +1,26 @@
-//codigo js
+//variables
+let talle= prompt("Ingresa tu talle de remera")
 
-// declaracion de variables
-var nombre;
+if(talle=="xl"){
+    console.log("Quedan 5 remeras")
+} 
+else if (talle=="l") {
+    console.log("Quedan 2 remeras")
+} 
+else if (talle=="m") {
+    console.log("No quedan remeras")
+} 
+else if (talle=="s") {
+    console.log("Quedan 2 remeras")
+} 
+else if (talle=="xs") {
+    console.log("Quedan 3 remeras")
+}
+else if (talle=="xxs") {
+    console.log("No hacemos remeras de ese talle")
+}
+else if (talle=="xxl") {
+    console.log("No hacemos remeras de ese talle")
+}
 
-//asignacion de valores
-nombre="Ignacio"//string o cadena
-
-let apellidoPaterno;
-let apellidoMaterno = "Gonzalez"//inicializacion
-
-apellidoPaterno="Escarcha"
-
-let edad;
-
-edad=20;
-edad=21;//reasignando valores
-
-const PI=3.1416;
-//las constantes no se puede reasignar
-const GRAVEDAD=9.8;
-
-let nombreCompleto=nombre + " " + apellidoPaterno;//concatenacion
-
-let resultado= PI + GRAVEDAD + 5.4;
-
-//metodos de entrada y salida de datos
-
-console.log(edad)
+console.log("No hay remeras de su talle en stock")
