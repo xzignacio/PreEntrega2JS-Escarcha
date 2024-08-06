@@ -1,34 +1,7 @@
-//variable condicional
-/*let talle= prompt("Ingresa tu talle de remera")
-
-if(talle=="xl"){
-    console.log("Quedan 5 remeras")
-} 
-else if (talle=="l") {
-    console.log("Quedan 2 remeras")
-} 
-else if (talle=="m") {
-    console.log("No quedan remeras")
-} 
-else if (talle=="s") {
-    console.log("Quedan 2 remeras")
-} 
-else if (talle=="xs") {
-    console.log("Quedan 3 remeras")
-}
-else if (talle=="xxs") {
-    console.log("No hacemos remeras de ese talle")
-}
-else if (talle=="xxl") {
-    console.log("No hacemos remeras de ese talle")
-}
-
-console.log("No hay remeras de su talle en stock") */
-
-
-/*1-paso: seria bienvenida
+/*
+1-paso: seria bienvenida
 2-paso: seria ingresar tu nombre
-3-paso: seleccionar remera
+3-paso: seleccionar remeras
 4-paso: seleccionar talle
 5-paso: seleccionar color
 6-paso: Monto a pagar
@@ -44,18 +17,46 @@ let producto= "remeras";
 
 let ingresar= false;
 
-for (let i = 3; i >=1 ; i = i - 1) {
-    let ingreso = prompt("Ingresa el producto que deseas comprar, solo tenemos remeras");
+for (let i = 10; i >=1 ; i = i - 1) {
+    let ingreso = prompt("Ingresa el producto que deseas comprar, solo tenemos remeras.");
     if(producto === ingreso) {
         alert("Seleccionaste remeras");
         ingresar=true
         break;
     } else{
-        alert("Error ingresa el producto nuevamente");
+        alert("Error ingresa el producto nuevamente, tienes 10 intentos!");
     }
 }
 
 //segunda pantalla
 if (ingresar === true) {
-    alert ("Ingrese su talle")
+    let opcion = prompt("Elegí tu talle: \n1 - Talle XL. \n2 - Talle L. \n3 - Talle M. \n4 - Talle S. \n5 - Talle XS. \nPresione X para finalizar.");
+    while(opcion !="x"){
+        if(opcion=="1"){
+            opcion=prompt("Elegí un color para tu remera talla XL: \n1 - Color Negro. \n2 - Color Blanco. \n3 - Color Arena.");
+            alert("El monto a pagar es de: $15000 pesos.");
+            alert("Gracias por su compra! :)");
+            break;
+        } else if(opcion=="2"){
+            opcion=prompt("Elegí un color para tu remera talla L: \n1 - Color Negro. \n2 - Color Blanco. \n3 - Color Celeste.");
+            alert("El monto a pagar es de: $13000 pesos.");
+            alert("Gracias por su compra! :)");
+            break;
+        } else if(opcion=="3"){
+            opcion=prompt("Elegí un color para tu remera talla M: \n1 - Color Negro. \n2 - Color Blanco. \n3 - Color Naranja.");
+            alert("El monto a pagar es de: $12000 pesos.");
+            alert("Gracias por su compra! :)");
+            break;
+        } else if(opcion=="4"){
+            opcion=prompt("Elegí un color para tu remera talla S: \n1 - Color Negro. \n2 - Color Blanco. \n3 - Color Gris.");
+            alert("El monto a pagar es de: $11000 pesos.");
+            alert("Gracias por su compra! :)");
+            break;
+        } else if(opcion=="5"){
+            opcion=prompt("Elegí un color para tu remera talla XS: \n1 - Color Negro. \n2 - Color Blanco. \n3 - Color Amarillo.");
+            alert("El monto a pagar es de: $10000 pesos.");
+            alert("Gracias por su compra! :)");
+            break;
+        }
+    }
 }
