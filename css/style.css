@@ -1,6 +1,8 @@
 @import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Poppins:wght@400;500;600;700;800&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap');
 
-/* font-family: 'Bebas Neue', sans-serif; font-family: 'Poppins', sans-serif; */
+
+/* font-family: 'Bebas Neue', sans-serif; font-family: "Merriweather", serif; */
 
  *::after,
  *::before,
@@ -12,8 +14,6 @@
 
 body {
     margin: 0 auto;
-    max-width: 1200px;
-    font-family: 'Bebas Neue', sans-serif;
     color: black;
 }
 
@@ -36,12 +36,16 @@ img{
 header{
     display: flex;
     justify-content: space-between;
-    padding: 30px 0 40px 0;
+    padding: 30px 0 40px 20px;
 }
 
 h1{
-    letter-spacing: 10px;
+    letter-spacing: 5px;
     border-bottom: 3px solid black;
+    font-family: "Merriweather", serif;
+    font-weight: 800;
+    font-style: italic;
+    text-transform: capitalize;
 }
 
 .container-icon{
@@ -141,6 +145,17 @@ h1{
 
 /* Main */
 
+main{
+    margin: 0 auto;
+    max-width: 1200px;
+    font-family: "Merriweather", serif;
+    font-weight: 700;
+    font-style: italic;
+    font-size: 10px;
+    text-transform: capitalize;
+    margin-bottom: 4cm;
+}
+
 .container-items{
     display: grid;
     grid-template-columns: repeat(4, 1fr);
@@ -188,4 +203,93 @@ h1{
     color: white;
     padding: 15px 10px;
     cursor: pointer;
+}
+
+cart-empty{
+    padding: 20px;
+    text-align: center;
+}
+
+.hidden{
+    display: none;
+}
+
+/* Footer */
+
+.footer{
+    position: relative;
+    width: 100%;
+    background-color: black;
+    min-height: 100px;
+    padding: 20px 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.social-icon{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    margin: 10px 5px;
+    flex-wrap: wrap;
+}
+
+.icon-elem{
+    list-style: none;
+}
+
+.icon{
+    color: white;
+    font-size: 32px;
+    display: inline-block;
+    margin: 0 10px;
+    transition: 0.5s;
+}
+
+.icon:hover{
+    transform: translateY(-10px);
+}
+
+.menu-footer{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    align-items: center;
+    margin: 10px 0;
+    flex-wrap: wrap;
+}
+
+.menu-elem{
+    list-style: none;
+}
+
+.menu-icon{
+    color: white;
+    font-size: 15px;
+    display: inline-block;
+    text-decoration: none;
+    margin: 5px 10px;
+    opacity: 0.75;
+    transition: 0.3s;
+    font-family: "Merriweather", serif;
+    font-weight: 500;
+    font-style: italic;
+}
+
+.menu-icon:hover{
+    opacity: 1;
+}
+
+.text{
+    color: white;
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 10px;
+    font-size: 15px;
+    font-family: "Merriweather", serif;
+    font-weight: 500;
+    font-style: italic;
 }
