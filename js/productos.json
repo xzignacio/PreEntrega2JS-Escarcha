@@ -1,8 +1,8 @@
 [
     {
-        "id": "abrigo-01",
-        "titulo": "Abrigo 01",
-        "imagen": "./img/abrigos/01.jpg",
+        "id": "abrigo-001",
+        "titulo": "Abrigo|001",
+        "imagen": "/img/abrigos/abrigo-kurai-1.jpg",
         "categoria": {
             "nombre": "Abrigos",
             "id": "abrigos"
@@ -10,9 +10,9 @@
         "precio": 1000
     },
     {
-        "id": "abrigo-02",
-        "titulo": "Abrigo 02",
-        "imagen": "./img/abrigos/02.jpg",
+        "id": "abrigo-002",
+        "titulo": "Abrigo|002",
+        "imagen": "/img/abrigos/abrigo-kurai-2.jpg",
         "categoria": {
             "nombre": "Abrigos",
             "id": "abrigos"
@@ -20,9 +20,9 @@
         "precio": 1000
     },
     {
-        "id": "abrigo-03",
-        "titulo": "Abrigo 03",
-        "imagen": "./img/abrigos/03.jpg",
+        "id": "abrigo-003",
+        "titulo": "Abrigo|003",
+        "imagen": "/img/abrigos/abrigo-kurai-3.jpg",
         "categoria": {
             "nombre": "Abrigos",
             "id": "abrigos"
@@ -30,9 +30,9 @@
         "precio": 1000
     },
     {
-        "id": "abrigo-04",
-        "titulo": "Abrigo 04",
-        "imagen": "./img/abrigos/04.jpg",
+        "id": "abrigo-004",
+        "titulo": "Abrigo|004",
+        "imagen": "/img/abrigos/abrigo-kurai-4.jpg",
         "categoria": {
             "nombre": "Abrigos",
             "id": "abrigos"
@@ -40,9 +40,9 @@
         "precio": 1000
     },
     {
-        "id": "abrigo-05",
-        "titulo": "Abrigo 05",
-        "imagen": "./img/abrigos/05.jpg",
+        "id": "abrigo-005",
+        "titulo": "Abrigo|005",
+        "imagen": "/img/abrigos/abrigo-kurai-5.jpg",
         "categoria": {
             "nombre": "Abrigos",
             "id": "abrigos"
@@ -50,89 +50,89 @@
         "precio": 1000
     },
     {
-        "id": "camiseta-01",
-        "titulo": "Camiseta 01",
-        "imagen": "./img/camisetas/01.jpg",
+        "id": "remera-001",
+        "titulo": "Remera|001",
+        "imagen": "/img/remeras/remera-kurai-streetwear-1.jpg",
         "categoria": {
-            "nombre": "Camisetas",
-            "id": "camisetas"
+            "nombre": "Remeras",
+            "id": "remeras"
         },
         "precio": 1000
     },
     {
-        "id": "camiseta-02",
-        "titulo": "Camiseta 02",
-        "imagen": "./img/camisetas/02.jpg",
+        "id": "remera-002",
+        "titulo": "Remera|002",
+        "imagen": "/img/remeras/remera-kurai-streetwear-2.png",
         "categoria": {
-            "nombre": "Camisetas",
-            "id": "camisetas"
+            "nombre": "Remeras",
+            "id": "remeras"
         },
         "precio": 1000
     },
     {
-        "id": "camiseta-03",
-        "titulo": "Camiseta 03",
-        "imagen": "./img/camisetas/03.jpg",
+        "id": "remera-003",
+        "titulo": "Remera|003",
+        "imagen": "/img/remeras/remera-kurai-streetwear-3.jpg",
         "categoria": {
-            "nombre": "Camisetas",
-            "id": "camisetas"
+            "nombre": "Remeras",
+            "id": "remeras"
         },
         "precio": 1000
     },
     {
-        "id": "camiseta-04",
-        "titulo": "Camiseta 04",
-        "imagen": "./img/camisetas/04.jpg",
+        "id": "remera-004",
+        "titulo": "Remera|004",
+        "imagen": "/img/remeras/remera-kurai-streetwear-4.png",
         "categoria": {
-            "nombre": "Camisetas",
-            "id": "camisetas"
+            "nombre": "Remeras",
+            "id": "remeras"
         },
         "precio": 1000
     },
     {
-        "id": "camiseta-05",
-        "titulo": "Camiseta 05",
-        "imagen": "./img/camisetas/05.jpg",
+        "id": "remera-005",
+        "titulo": "Remera|005",
+        "imagen": "/img/remeras/remera-kurai-streetwear-5.png",
         "categoria": {
-            "nombre": "Camisetas",
-            "id": "camisetas"
+            "nombre": "Remeras",
+            "id": "remeras"
         },
         "precio": 1000
     },
     {
-        "id": "camiseta-06",
-        "titulo": "Camiseta 06",
-        "imagen": "./img/camisetas/06.jpg",
+        "id": "remera-006",
+        "titulo": "Remera|006",
+        "imagen": "/img/remeras/remera-kurai-streetwear-6.jpg",
         "categoria": {
-            "nombre": "Camisetas",
-            "id": "camisetas"
+            "nombre": "Remeras",
+            "id": "remeras"
         },
         "precio": 1000
     },
     {
-        "id": "camiseta-07",
-        "titulo": "Camiseta 07",
-        "imagen": "./img/camisetas/07.jpg",
+        "id": "remera-007",
+        "titulo": "Remera|007",
+        "imagen": "/img/remeras/remera-kurai-streetwear-7.png",
         "categoria": {
-            "nombre": "Camisetas",
-            "id": "camisetas"
+            "nombre": "Remeras",
+            "id": "remeras"
         },
         "precio": 1000
     },
     {
-        "id": "camiseta-08",
-        "titulo": "Camiseta 08",
-        "imagen": "./img/camisetas/08.jpg",
+        "id": "remera-008",
+        "titulo": "Remera|008",
+        "imagen": "/img/remeras/remera-kurai-streetwear-8.png",
         "categoria": {
-            "nombre": "Camisetas",
-            "id": "camisetas"
+            "nombre": "Remeras",
+            "id": "remeras"
         },
         "precio": 1000
     },
     {
-        "id": "pantalon-01",
-        "titulo": "Pantalón 01",
-        "imagen": "./img/pantalones/01.jpg",
+        "id": "pantalon-001",
+        "titulo": "Pantalón|001",
+        "imagen": "/img/pantalones/pantalon-kurai-1.jpg",
         "categoria": {
             "nombre": "Pantalones",
             "id": "pantalones"
@@ -140,9 +140,9 @@
         "precio": 1000
     },
     {
-        "id": "pantalon-02",
-        "titulo": "Pantalón 02",
-        "imagen": "./img/pantalones/02.jpg",
+        "id": "pantalon-002",
+        "titulo": "Pantalón|002",
+        "imagen": "/img/pantalones/pantalon-kurai-2.jpg",
         "categoria": {
             "nombre": "Pantalones",
             "id": "pantalones"
@@ -150,9 +150,9 @@
         "precio": 1000
     },
     {
-        "id": "pantalon-03",
-        "titulo": "Pantalón 03",
-        "imagen": "./img/pantalones/03.jpg",
+        "id": "pantalon-003",
+        "titulo": "Pantalón|003",
+        "imagen": "/img/pantalones/pantalon-kurai-3.jpg",
         "categoria": {
             "nombre": "Pantalones",
             "id": "pantalones"
@@ -160,9 +160,9 @@
         "precio": 1000
     },
     {
-        "id": "pantalon-04",
-        "titulo": "Pantalón 04",
-        "imagen": "./img/pantalones/04.jpg",
+        "id": "pantalon-004",
+        "titulo": "Pantalón|004",
+        "imagen": "/img/pantalones/pantalon-kurai-4.jpg",
         "categoria": {
             "nombre": "Pantalones",
             "id": "pantalones"
@@ -170,9 +170,9 @@
         "precio": 1000
     },
     {
-        "id": "pantalon-05",
-        "titulo": "Pantalón 05",
-        "imagen": "./img/pantalones/05.jpg",
+        "id": "pantalon-005",
+        "titulo": "Pantalón|005",
+        "imagen": "/img/pantalones/pantalon-kurai-5.jpg",
         "categoria": {
             "nombre": "Pantalones",
             "id": "pantalones"
