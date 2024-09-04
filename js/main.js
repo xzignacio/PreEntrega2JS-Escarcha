@@ -55,7 +55,7 @@ botonesCategorias.forEach(boton => {
             tituloPrincipal.innerText = "Todos los productos";
             cargarProductos(productos);
         }
-
+        
     })
 });
 
