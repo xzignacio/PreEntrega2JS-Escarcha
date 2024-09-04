@@ -2,7 +2,7 @@
     {
         "id": "abrigo-001",
         "titulo": "Abrigo|001",
-        "imagen": "/img/abrigos/abrigo-kurai-1.jpg",
+        "imagen": "../img/abrigos/abrigo-kurai-1.jpg",
         "categoria": {
             "nombre": "Abrigos",
             "id": "abrigos"
@@ -12,7 +12,7 @@
     {
         "id": "abrigo-002",
         "titulo": "Abrigo|002",
-        "imagen": "/img/abrigos/abrigo-kurai-2.jpg",
+        "imagen": "../img/abrigos/abrigo-kurai-2.jpg",
         "categoria": {
             "nombre": "Abrigos",
             "id": "abrigos"
@@ -22,7 +22,7 @@
     {
         "id": "abrigo-003",
         "titulo": "Abrigo|003",
-        "imagen": "/img/abrigos/abrigo-kurai-3.jpg",
+        "imagen": "../img/abrigos/abrigo-kurai-3.jpg",
         "categoria": {
             "nombre": "Abrigos",
             "id": "abrigos"
@@ -32,7 +32,7 @@
     {
         "id": "abrigo-004",
         "titulo": "Abrigo|004",
-        "imagen": "/img/abrigos/abrigo-kurai-4.jpg",
+        "imagen": "../img/abrigos/abrigo-kurai-4.jpg",
         "categoria": {
             "nombre": "Abrigos",
             "id": "abrigos"
@@ -42,7 +42,7 @@
     {
         "id": "abrigo-005",
         "titulo": "Abrigo|005",
-        "imagen": "/img/abrigos/abrigo-kurai-5.jpg",
+        "imagen": "../img/abrigos/abrigo-kurai-5.jpg",
         "categoria": {
             "nombre": "Abrigos",
             "id": "abrigos"
@@ -52,7 +52,7 @@
     {
         "id": "remera-001",
         "titulo": "Remera|001",
-        "imagen": "/img/remeras/remera-kurai-streetwear-1.jpg",
+        "imagen": "../img/remeras/remera-kurai-streetwear-1.jpg",
         "categoria": {
             "nombre": "Remeras",
             "id": "remeras"
@@ -62,7 +62,7 @@
     {
         "id": "remera-002",
         "titulo": "Remera|002",
-        "imagen": "/img/remeras/remera-kurai-streetwear-2.png",
+        "imagen": "../img/remeras/remera-kurai-streetwear-2.png",
         "categoria": {
             "nombre": "Remeras",
             "id": "remeras"
@@ -72,7 +72,7 @@
     {
         "id": "remera-003",
         "titulo": "Remera|003",
-        "imagen": "/img/remeras/remera-kurai-streetwear-3.jpg",
+        "imagen": "../img/remeras/remera-kurai-streetwear-3.jpg",
         "categoria": {
             "nombre": "Remeras",
             "id": "remeras"
@@ -82,7 +82,7 @@
     {
         "id": "remera-004",
         "titulo": "Remera|004",
-        "imagen": "/img/remeras/remera-kurai-streetwear-4.png",
+        "imagen": "../img/remeras/remera-kurai-streetwear-4.png",
         "categoria": {
             "nombre": "Remeras",
             "id": "remeras"
@@ -92,7 +92,7 @@
     {
         "id": "remera-005",
         "titulo": "Remera|005",
-        "imagen": "/img/remeras/remera-kurai-streetwear-5.png",
+        "imagen": "../img/remeras/remera-kurai-streetwear-5.png",
         "categoria": {
             "nombre": "Remeras",
             "id": "remeras"
@@ -102,7 +102,7 @@
     {
         "id": "remera-006",
         "titulo": "Remera|006",
-        "imagen": "/img/remeras/remera-kurai-streetwear-6.jpg",
+        "imagen": "../img/remeras/remera-kurai-streetwear-6.jpg",
         "categoria": {
             "nombre": "Remeras",
             "id": "remeras"
@@ -112,7 +112,7 @@
     {
         "id": "remera-007",
         "titulo": "Remera|007",
-        "imagen": "/img/remeras/remera-kurai-streetwear-7.png",
+        "imagen": "../img/remeras/remera-kurai-streetwear-7.png",
         "categoria": {
             "nombre": "Remeras",
             "id": "remeras"
@@ -122,7 +122,7 @@
     {
         "id": "remera-008",
         "titulo": "Remera|008",
-        "imagen": "/img/remeras/remera-kurai-streetwear-8.png",
+        "imagen": "../img/remeras/remera-kurai-streetwear-8.png",
         "categoria": {
             "nombre": "Remeras",
             "id": "remeras"
@@ -132,7 +132,7 @@
     {
         "id": "pantalon-001",
         "titulo": "Pantalón|001",
-        "imagen": "/img/pantalones/pantalon-kurai-1.jpg",
+        "imagen": "../img/pantalones/pantalon-kurai-1.jpg",
         "categoria": {
             "nombre": "Pantalones",
             "id": "pantalones"
@@ -142,7 +142,7 @@
     {
         "id": "pantalon-002",
         "titulo": "Pantalón|002",
-        "imagen": "/img/pantalones/pantalon-kurai-2.jpg",
+        "imagen": "../img/pantalones/pantalon-kurai-2.jpg",
         "categoria": {
             "nombre": "Pantalones",
             "id": "pantalones"
@@ -152,7 +152,7 @@
     {
         "id": "pantalon-003",
         "titulo": "Pantalón|003",
-        "imagen": "/img/pantalones/pantalon-kurai-3.jpg",
+        "imagen": "../img/pantalones/pantalon-kurai-3.jpg",
         "categoria": {
             "nombre": "Pantalones",
             "id": "pantalones"
@@ -162,7 +162,7 @@
     {
         "id": "pantalon-004",
         "titulo": "Pantalón|004",
-        "imagen": "/img/pantalones/pantalon-kurai-4.jpg",
+        "imagen": "../img/pantalones/pantalon-kurai-4.jpg",
         "categoria": {
             "nombre": "Pantalones",
             "id": "pantalones"
@@ -172,7 +172,7 @@
     {
         "id": "pantalon-005",
         "titulo": "Pantalón|005",
-        "imagen": "/img/pantalones/pantalon-kurai-5.jpg",
+        "imagen": "../img/pantalones/pantalon-kurai-5.jpg",
         "categoria": {
             "nombre": "Pantalones",
             "id": "pantalones"
